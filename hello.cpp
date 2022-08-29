@@ -3,4 +3,5 @@
 using namespace std;
 void print_hello(){
    cout<<"Hello new World2!";
+   int x = 5;
 }
