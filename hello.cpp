@@ -2,5 +2,5 @@
 #include "functions.h"
 using namespace std;
 void print_hello(){
-   cout<<"Hello World and welcome";
+   cout<<"Hello World! i am amrendra";
 }
